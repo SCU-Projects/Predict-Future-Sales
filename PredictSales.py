@@ -20,7 +20,6 @@ def appendCategoryIdToDF(eachDFRow):
     groupedCategoryID = item_categories[item_categories['item_category_id'] == item_category_id].iloc[0]['category_id']
     #print("after",groupedCategoryID)
     eachDFRow['category_id'] = groupedCategoryID
-    print(df[:5])
     return eachDFRow
 
 zeroColumns = ['item_cnt_day','item_price']
