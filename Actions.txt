@@ -12,6 +12,7 @@ Action: Rephrase the item categories by grouping the similar categories in item_
 Action: Add new column item_category_id as a foreign key reference
 
 TODO:
+start with grouped_sales_train.csv
 1. Find some avg item sales count by each of 
 {Grouped category id, Grouped shop_id} in sales_train.csv
 
