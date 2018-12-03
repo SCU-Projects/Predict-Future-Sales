@@ -8,7 +8,13 @@ import pandas as pd
 # Read data from file 'filename.csv'
 df = pd.read_csv("./data/sales_train.csv") 
 
+#Drop columns which doesnt have any impact on training and testing
+excludeColumns =['date_block_num', 'date']
+
+df.drop(excludeColumns, axis=1, inplace=True)
+
 zeroColumns = ['item_cnt_day','item_price']
+
 #Replace negative values in columns to zero
 print('Before:')
 print(sum(n < 0 for n in df['item_cnt_day']))

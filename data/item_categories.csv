@@ -1,85 +1,85 @@
 item_category_name,item_category_id
-PC - Гарнитуры/Наушники,0
-Аксессуары - PS2,1
-Аксессуары - PS3,2
-Аксессуары - PS4,3
-Аксессуары - PSP,4
-Аксессуары - PSVita,5
-Аксессуары - XBOX 360,6
-Аксессуары - XBOX ONE,7
-Билеты (Цифра),8
-Доставка товара,9
-Игровые консоли - PS2,10
-Игровые консоли - PS3,11
-Игровые консоли - PS4,12
-Игровые консоли - PSP,13
-Игровые консоли - PSVita,14
-Игровые консоли - XBOX 360,15
-Игровые консоли - XBOX ONE,16
-Игровые консоли - Прочие,17
-Игры - PS2,18
-Игры - PS3,19
-Игры - PS4,20
-Игры - PSP,21
-Игры - PSVita,22
-Игры - XBOX 360,23
-Игры - XBOX ONE,24
-Игры - Аксессуары для игр,25
-Игры Android - Цифра,26
-Игры MAC - Цифра,27
-Игры PC - Дополнительные издания,28
-Игры PC - Коллекционные издания,29
-Игры PC - Стандартные издания,30
-Игры PC - Цифра,31
-"Карты оплаты (Кино, Музыка, Игры)",32
-Карты оплаты - Live!,33
-Карты оплаты - Live! (Цифра),34
-Карты оплаты - PSN,35
-Карты оплаты - Windows (Цифра),36
-Кино - Blu-Ray,37
-Кино - Blu-Ray 3D,38
-Кино - Blu-Ray 4K,39
-Кино - DVD,40
-Кино - Коллекционное,41
-"Книги - Артбуки, энциклопедии",42
-Книги - Аудиокниги,43
-Книги - Аудиокниги (Цифра),44
-Книги - Аудиокниги 1С,45
-Книги - Бизнес литература,46
-"Книги - Комиксы, манга",47
-Книги - Компьютерная литература,48
-Книги - Методические материалы 1С,49
-Книги - Открытки,50
-Книги - Познавательная литература,51
-Книги - Путеводители,52
-Книги - Художественная литература,53
-Книги - Цифра,54
-Музыка - CD локального производства,55
-Музыка - CD фирменного производства,56
-Музыка - MP3,57
-Музыка - Винил,58
-Музыка - Музыкальное видео,59
-Музыка - Подарочные издания,60
-Подарки - Атрибутика,61
-"Подарки - Гаджеты, роботы, спорт",62
-Подарки - Мягкие игрушки,63
-Подарки - Настольные игры,64
-Подарки - Настольные игры (компактные),65
-"Подарки - Открытки, наклейки",66
-Подарки - Развитие,67
-"Подарки - Сертификаты, услуги",68
-Подарки - Сувениры,69
-Подарки - Сувениры (в навеску),70
-"Подарки - Сумки, Альбомы, Коврики д/мыши",71
-Подарки - Фигурки,72
-Программы - 1С:Предприятие 8,73
-Программы - MAC (Цифра),74
-Программы - Для дома и офиса,75
-Программы - Для дома и офиса (Цифра),76
-Программы - Обучающие,77
-Программы - Обучающие (Цифра),78
-Служебные,79
-Служебные - Билеты,80
-Чистые носители (шпиль),81
-Чистые носители (штучные),82
-Элементы питания,83
+PC - Headsets / Headphones,0
+Accessories - PS2,1
+Accessories - PS3,2
+Accessories - PS4,3
+Accessories - PSP,4
+Accessories - PSVita,5
+Accessories - XBOX 360,6
+Accessories - XBOX ONE,7
+Tickets (Digital),8
+Delivery of goods,9
+Game Consoles - PS2,10
+Game Consoles - PS3,11
+Game Consoles - PS4,12
+Game Consoles - PSP,13
+Game Consoles - PSVita,14
+Gaming Consoles - XBOX 360,15
+Gaming Consoles - XBOX ONE,16
+Game Consoles - Other,17
+Games - PS2,18
+Games - PS3,19
+Games - PS4,20
+Games - PSP,21
+Games - PSVita,22
+Games - XBOX 360,23
+Games - XBOX ONE,24
+Games - Accessories for games,25
+Android Games - Digital,26
+MAC Games - Digit,27
+PC Games - Additional Editions,28
+PC Games - Collectible Editions,29
+PC Games - Standard Editions,30
+PC Games - Digital,31
+"Payment cards (Cinema, Music, Games)",32
+Payment Cards - Live!,33
+Payment Cards - Live! (Numeral),34
+Payment Cards - PSN,35
+Payment Cards - Windows (Digital),36
+Cinema - Blu-ray,37
+Cinema - Blu-ray 3D,38
+Cinema - Blu-ray 4K,39
+Cinema - DVD,40
+Cinema - Collection,41
+"Books - Artbooks, encyclopedias",42
+Books - Audiobooks,43
+Books - Audiobooks (Figure),44
+Books - Audiobooks 1C,45
+Books - Business Literature,46
+"Books - Comics, Manga",47
+Books - Computer Literature,48
+Books - Methodical materials 1C,49
+Books - Postcards,50
+Books - Cognitive Literature,51
+Books - Travel Guides,52
+Books - Fiction,53
+Books - The Figure,54
+Music - Local Production CD,55
+Music - CD production,56
+Music - MP3,57
+Music - Vinyl,58
+Music - Music Video,59
+Music - Gift Edition,60
+Gifts - Attributes,61
+"Gifts - Gadgets, Robots, Sports",62
+Gifts - Soft Toys,63
+Gifts - Board Games,64
+Gifts - Board Games (Compact),65
+"Gifts - Cards, stickers",66
+Gifts - Development,67
+"Gifts - Certificates, Services",68
+Gifts - Souvenirs,69
+Gifts - Souvenirs (in a hitch),70
+"Gifts - Bags, Albums, Mouse pads",71
+Gifts - Figures,72
+Programs - 1C: Enterprise 8,73
+Programs - MAC (Digit),74
+Programs - Home and Office,75
+Programs - Home and Office (Digital),76
+Programs - Educational,77
+Programs - Educational (Figure),78
+Service,79
+Service Tickets,80
+Clean media (spire),81
+Clean Media (Piece),82
+Batteries,83
