@@ -1,0 +1,10 @@
+1. I found that there is no relationship for the date columns in dataset because they are not used in predicting the output in the test set
+Action: Dropped two columns date and date_block_num
+
+2. Found -ve values in 'item_cnt_day','item_price'
+Action: Replaced them to 0 in sales_train.csv
+
+3. After translating Russian to English for the item_categories.csv,  Inferred that the item_category_names are close, hence they can be clubbed together
+Action: Rephrase the item categories by grouping the similar categories in item_categories.csv
+
+4. Putting this item_category_id as a foreign key in sales_train.csv could give us some for inferrence.
