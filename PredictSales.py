@@ -56,3 +56,4 @@ import pandas as pd
 # this is same as the sales_train but the diff is it has re-phrased category_id
 
 df = pd.read_csv("./data/grouped_sales_train.csv")
+df.head()
