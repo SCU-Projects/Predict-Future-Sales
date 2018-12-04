@@ -13,7 +13,12 @@ Action: Add new column item_category_id as a foreign key reference
 
 TODO:
 start with grouped_sales_train.csv
-1. Find some avg item sales count by each of 
+
+1. After removing date, we found that each item_id has duplicate rows with different item_cnt_day,
+Action: We need to group by item_id with corresponding shop_id in grouped_sales_train.csv
+
+2. Find some avg item sales count by each of 
 {Grouped category id, Grouped shop_id} in sales_train.csv
 
 MAYBE IF IT MAKES SENSE:
+1. Determine if item_price has any relationship to item_cnt_day in grouped_sales_train.csv?
