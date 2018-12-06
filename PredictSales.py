@@ -7,7 +7,7 @@ import pandas as pd
 
 # =============================================================================
 # # Read data from file 'filename.csv'
-# df = pd.read_csv("./data/sales_train.csv") 
+#df = pd.read_csv("./data/sales_train.csv")
 # 
 # #Drop columns which doesnt have any impact on training and testing
 # excludeColumns =['date_block_num', 'date']
